@@ -7,11 +7,18 @@ Eine minimalistische Karteikarten-Lernumgebung mit **159 Englisch–Deutsch-Voka
 - Karteikarten-, Schreib- und Zuordnungsmodus
 - Lernrichtung Englisch → Deutsch, Deutsch → Englisch oder gemischt
 - Zufällige Reihenfolge und Wiederholung unbekannter Karten
+- Kategorien anlegen und umbenennen; Stapel zwischen Kategorien verschieben
 - Eigene Stapel und Vokabeln verwalten
 - JSON-/CSV-Import und -Export
 - Heller und dunkler Modus
 
 Im Modus „Wörter zuordnen“ werden bis zu sechs Wortpaare gleichzeitig angezeigt. Wähle jeweils ein Wort und seine Übersetzung in der anderen Spalte. Falsche Zuordnungen markieren beide beteiligten Vokabeln zum weiteren Üben; sie lassen sich am Rundenende erneut lernen. Die Ergebnisanzeige zählt Paare, die ohne Fehler zugeordnet wurden.
+
+## Kategorien
+
+Die vorhandenen Units gehören zur Kategorie **Englisch 4. Klasse**. Auch bisher gespeicherte Stapel ohne Kategorie werden dort eingeordnet; Vokabeln und Lernstände bleiben erhalten.
+
+Über die Kategorieauswahl lassen sich Kategorien wechseln, anlegen und umbenennen. Neue Stapel entstehen in der ausgewählten Kategorie. Unter „Vokabeln“ kann ein Stapel einer anderen Kategorie zugeordnet werden. JSON-Sicherungen enthalten auch die Kategorien; ältere Sicherungen bleiben importierbar. CSV-Dateien werden in den ausgewählten Stapel importiert, bei einer leeren Kategorie in einen neuen Stapel.
 
 ## Nutzung
 
