@@ -4,12 +4,14 @@ Eine minimalistische Karteikarten-Lernumgebung mit **159 Englisch–Deutsch-Voka
 
 ## Funktionen
 
-- Karteikarten- und Schreibmodus
+- Karteikarten-, Schreib- und Zuordnungsmodus
 - Lernrichtung Englisch → Deutsch, Deutsch → Englisch oder gemischt
 - Zufällige Reihenfolge und Wiederholung unbekannter Karten
 - Eigene Stapel und Vokabeln verwalten
 - JSON-/CSV-Import und -Export
 - Heller und dunkler Modus
+
+Im Modus „Wörter zuordnen“ werden bis zu sechs Wortpaare gleichzeitig angezeigt. Wähle jeweils ein Wort und seine Übersetzung in der anderen Spalte. Falsche Zuordnungen markieren beide beteiligten Vokabeln zum weiteren Üben; sie lassen sich am Rundenende erneut lernen. Die Ergebnisanzeige zählt Paare, die ohne Fehler zugeordnet wurden.
 
 ## Nutzung
 
